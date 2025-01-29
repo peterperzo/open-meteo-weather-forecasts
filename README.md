@@ -1,4 +1,4 @@
-# rohlik-case-study-open-meteo
+# case-study-open-meteo
 
 Weather forecast ETL pipeline. Data sourced from [Open-Meteo API](https://open-meteo.com).
 
